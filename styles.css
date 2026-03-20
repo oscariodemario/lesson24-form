@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+}
+h1 {
+    color: #333;
+}
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+input{
+    width: 300px;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+select{
+    width: 318px;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+input[type="checkbox"]{
+    display: block;
+    align-items: center;
+    gap: 8px;
+    width: 40px;
+}
+
+.terms {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 8px;
+    margin-left: 43.2%;
+}
